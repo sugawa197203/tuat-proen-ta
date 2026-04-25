@@ -6,7 +6,7 @@ int main(void) {
     scanf("%d", &n);
 
     if (n < 0) {
-        printf("負です。¥n");
+        printf("負です。\n");
     }
     return 0;
 }
